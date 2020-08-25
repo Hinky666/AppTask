@@ -1,0 +1,6 @@
+framework module Pods_AppTask {
+  umbrella header "Pods-AppTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

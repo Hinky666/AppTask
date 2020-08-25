@@ -1,0 +1,20 @@
+PODS:
+  - BSImagePicker (3.2.1)
+  - SlideShowMaker (0.1.0)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 3.1)
+  - SlideShowMaker
+
+SPEC REPOS:
+  trunk:
+    - BSImagePicker
+    - SlideShowMaker
+
+SPEC CHECKSUMS:
+  BSImagePicker: 5e87fe42526efdc3fe8ea23d6e4fac9eef43ecfb
+  SlideShowMaker: 17d46f2dfa935ea4e2e7bc9b1419ed5836b3138e
+
+PODFILE CHECKSUM: 92f2b1d3d9aeda790d8c03c6c27c3f665350fbae
+
+COCOAPODS: 1.8.4
